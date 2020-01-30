@@ -1,0 +1,15 @@
+{
+  "name": "dev.upm-packages.nsubstitute",
+  "displayName": "NSubstitute",
+  "version": "2.0.3-1",
+  "unity": "2019.2",
+  "description": "A friendly substitute for .NET mocking libraries.",
+  "license": "BSD",
+  "keywords": [],
+  "category": "",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/upm-packages/NSubstitute"
+  }
+}
